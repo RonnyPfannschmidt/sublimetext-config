@@ -5,11 +5,15 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
+		"Docker Based Build Systems",
+		"Dockerfile Syntax Highlighting",
+		"Elm Language Support",
 		"GitGutter",
 		"Package Control",
+		"Python Flake8 Lint",
 		"PyYapf Python Formatter",
 		"SublimeLinter",
+		"SublimeLinter-addon-black-for-flake",
 		"SublimeLinter-flake8",
 		"SummitLinter"
 	]

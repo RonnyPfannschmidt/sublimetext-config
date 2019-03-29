@@ -1,0 +1,7 @@
+{
+	"pydocstyle": false,
+	"live_mode": true,
+	"pep8_max_line_length": 89,
+	"ignore": ["W503"],
+	"complexity": 10
+}
