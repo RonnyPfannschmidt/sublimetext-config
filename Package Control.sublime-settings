@@ -3,14 +3,22 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"Elm Language Support"
+	],
 	"installed_packages":
 	[
 		"Anaconda",
+		"Elm Language Support",
 		"GitGutter",
 		"Package Control",
 		"PyYapf Python Formatter",
+		"Rust Enhanced",
 		"SublimeLinter",
+		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-flake8",
-		"SummitLinter"
+		"SummitLinter",
+		"TOML"
 	]
 }
