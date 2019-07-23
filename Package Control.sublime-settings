@@ -3,6 +3,10 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"Elm Language Support"
+	],
 	"installed_packages":
 	[
 		"Docker Based Build Systems",
@@ -14,9 +18,12 @@
 		"Package Control",
 		"Python Flake8 Lint",
 		"PyYapf Python Formatter",
+		"Rust Enhanced",
 		"SublimeLinter",
+		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-addon-black-for-flake",
 		"SublimeLinter-flake8",
-		"SummitLinter"
+		"SummitLinter",
+		"TOML"
 	]
 }
