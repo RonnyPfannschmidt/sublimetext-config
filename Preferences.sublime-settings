@@ -1,12 +1,19 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Sixteen.sublime-color-scheme",
 	"draw_white_space": "all",
+	"fade_fold_buttons": false,
 	"font_size": 17,
 	"hot_exit": false,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Rust",
 		"Vintage"
 	],
-	"remember_open_files": false
+	"remember_open_files": false,
+	"rulers":
+	[
+		80, 100
+	],
+	"spell_check": true,
 }
