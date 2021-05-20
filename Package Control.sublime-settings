@@ -9,26 +9,30 @@
 	],
 	"installed_packages":
 	[
+		"Cython",
+		"Cython+",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
 		"Elm Syntax Highlighting",
 		"fish",
 		"GitGutter",
-		"Hermes",
+		"ImagePreview",
 		"Markdown Slideshow",
 		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"NimLime",
+		"Nimpretty",
 		"orgmode",
 		"Package Control",
 		"Python 3",
-		"PyYapf Python Formatter",
 		"Rust Enhanced",
 		"SublimeLinter",
 		"SublimeLinter-addon-black-for-flake",
 		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-flake8",
 		"SummitLinter",
+		"SVG Preview",
+		"SVG Viewer",
 		"TOML"
 	]
 }
